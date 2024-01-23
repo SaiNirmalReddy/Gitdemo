@@ -9,5 +9,10 @@ x=1+4
 x=4-1
 
 
+#Divison function
+
+x=4/2
+
+
 
 
