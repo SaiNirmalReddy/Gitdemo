@@ -14,5 +14,10 @@ x=4-1
 x=4/2
 
 
+#Mult function
+
+x=4*2
+
+
 
 
